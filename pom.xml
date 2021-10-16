@@ -7,6 +7,7 @@
 	<artifactId>xxx-parent</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
+	<!--message1-->
 
 
 </project>
